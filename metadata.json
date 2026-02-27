@@ -1,0 +1,5 @@
+{
+  "name": "VisionTalk",
+  "description": "An immersive AI companion that sees, hears, and speaks. Upload images to start a contextual conversation with advanced vision and voice capabilities.",
+  "requestFramePermissions": ["microphone"]
+}
